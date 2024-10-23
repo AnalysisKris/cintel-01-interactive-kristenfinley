@@ -1,4 +1,7 @@
-# Assignment - Browser Interactive App: Slider Input & Histogram Output
+# Module 1 Assignment 
+## Browser Interactive App: Slider Input & Histogram Output
+- CONTINUOUS INTELLIGENCE 808182FA24
+- Kristen Finley
 
 ## Objective
 To implement a working interactive web app written in Python running in the browser, using Shiny Playground.
