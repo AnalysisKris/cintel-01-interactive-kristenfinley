@@ -19,11 +19,22 @@ This project is a Shiny application built with Python to visualize data from the
 - Seaborn for enhanced data visualization
 - Palmer Penguins dataset from the `palmerpenguins` library
 - NumPy and Pandas for data manipulation
+- 
+## Screenshots
+Below are some screenshots of the application:
 
-## Getting Started
-To run the application locally, follow these steps:
+### ![Screenshot of your app running in the Shiny playground] 
+![Shiny](file:///Users/kristenfinley/Desktop/Screenshot%202024-10-23%20at%201.56.55%E2%80%AFPM.png)
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+### Random Histogram
+![Random Histogram Screenshot](link_to_histogram_screenshot)
+
+### Palmer Penguins Scatter Plot
+![Palmer Penguins Scatter Plot Screenshot](link_to_scatter_plot_screenshot)
+
+
+## Acknowledgments
+- The Palmer Penguins dataset is an excellent resource for exploring statistical concepts in a biological context.
+- Special thanks to the developers of Shiny, Matplotlib, and Seaborn for their powerful data visualization libraries.
+- Acknowledgment to [Winston Chang](https://www.youtube.com/watch?v=pE7109d4Sgs&t=238s) for his insightful video on **Plot Outputs in Shiny for Python**, which helped guide the development of this application.
+- Thanks to ChatGPT for assistance in code development and debugging.
